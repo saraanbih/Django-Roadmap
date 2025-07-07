@@ -3,7 +3,7 @@
 > This roadmap is designed to guide you from beginner to advanced level in Django through practical projects and focused learning.
 > **Goal**: Build real Django projects in 3 months.
 
-📎 **Full Roadmap:** [Django Roadmap Repository](https://github.com/RadwanHegazy/Django-Roadmap/)
+**Full Roadmap:** [Django Roadmap Repository](https://github.com/RadwanHegazy/Django-Roadmap/)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Beginner Section
 
-### Phase 1 (10 Days) – Python Basics
+### Phase 1 (10 Days) - Python Basics
 
 * [Python Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 * [Python OOP](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
@@ -32,7 +32,7 @@
 
 ---
 
-### Phase 2 (15 Days) – Django Basics
+### Phase 2 (15 Days) - Django Basics
 
 * [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY)
 * [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
@@ -58,7 +58,7 @@ Push your project to GitHub.
 
 ---
 
-### Phase 3 (5 Days) – Network & HTTP
+### Phase 3 (5 Days) - Network & HTTP
 
 * Network Basics (1:19)
 * HTTP Protocol
@@ -71,7 +71,7 @@ Push your project to GitHub.
 
 ## Intermediate Section
 
-### Phase 1 (10 Days) – Authentication & ORM
+### Phase 1 (10 Days) - Authentication & ORM
 
 * [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
 * [What is ORM](https://www.youtube.com/watch?v=KthQ0UmBmxE)
@@ -86,7 +86,7 @@ Push your project to GitHub.
 
 ---
 
-### Phase 2 (10 Days) – REST API
+### Phase 2 (10 Days) - REST API
 
 * [What is an API](https://www.youtube.com/watch?v=nomcoLwnHS4)
 * [REST APIs Playlist](https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
@@ -101,7 +101,7 @@ Push your project to GitHub.
 
 ---
 
-### Phase 3 (10 Days) – JWT & Testing
+### Phase 3 (10 Days) - JWT & Testing
 
 * [Django Serializers](https://www.youtube.com/watch?v=hSGVNlEmmyE)
 * [What is JWT](https://www.youtube.com/watch?v=B-x7eeYtFIA)
